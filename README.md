@@ -55,6 +55,13 @@ Agent orchestration is the practice of coordinating multiple AI agents to work t
 | [Phidata](https://github.com/agno-agi/phidata) | Multi-modal agent framework with built-in tools and UI | ![Stars](https://img.shields.io/github/stars/agno-agi/phidata) |
 | [OpenAgents](https://github.com/OpenAgentsInc/openagents) | Open platform for deploying language agents | ![Stars](https://img.shields.io/github/stars/OpenAgentsInc/openagents) |
 | [AgentVerse](https://github.com/OpenBML/AgentVerse) | Platform for running multiple LLM agents in simulated environments | ![Stars](https://img.shields.io/github/stars/OpenBML/AgentVerse) |
+| [agency-swarm](https://github.com/VRSEN/agency-swarm) | Reliable multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/VRSEN/agency-swarm) |
+| [OpenAI Swarm](https://github.com/openai/swarm) | Educational lightweight multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/openai/swarm) |
+| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Framework for building, orchestrating and deploying AI agents | ![Stars](https://img.shields.io/github/stars/microsoft/agent-framework) |
+| [Shannon](https://github.com/Kocoro-lab/Shannon) | Production-oriented multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/Kocoro-lab/Shannon) |
+| [Solace Agent Mesh](https://github.com/SolaceLabs/solace-agent-mesh) | Event-driven framework for multi-agent AI systems | ![Stars](https://img.shields.io/github/stars/SolaceLabs/solace-agent-mesh) |
+| [Haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration for context-engineered LLM applications | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
+| [Pipelex](https://github.com/Pipelex/pipelex) | Declarative language for composable AI workflows | ![Stars](https://img.shields.io/github/stars/Pipelex/pipelex) |
 
 ### Swarm Intelligence Frameworks
 
@@ -92,6 +99,25 @@ Agent orchestration is the practice of coordinating multiple AI agents to work t
 | [Subagents](https://github.com/vstorm-co/subagents-pydantic-ai) | Subagent delegation framework for PydanticAI | ![Stars](https://img.shields.io/github/stars/vstorm-co/subagents-pydantic-ai) |
 | [Flux0](https://github.com/flux0-ai/flux0) | Multi-agent deployment framework with session management | ![Stars](https://img.shields.io/github/stars/flux0-ai/flux0) |
 | [Mamba Agents](https://github.com/sequenzia/mamba-agents) | Simple extensible AI Agent framework | ![Stars](https://img.shields.io/github/stars/sequenzia/mamba-agents) |
+
+### TypeScript & Node.js Frameworks
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [openai-swarm-node](https://github.com/youseai/openai-swarm-node) | Node.js implementation of OpenAI's Swarm framework | ![Stars](https://img.shields.io/github/stars/youseai/openai-swarm-node) |
+| [Network-AI](https://github.com/jovanSAPFIONEER/Network-AI) | TypeScript/Node multi-agent orchestrator with shared state | ![Stars](https://img.shields.io/github/stars/jovanSAPFIONEER/Network-AI) |
+| [megazord](https://github.com/Sh3rd3n/megazord) | Claude Code framework for multi-agent coordination | ![Stars](https://img.shields.io/github/stars/Sh3rd3n/megazord) |
+| [Voltmachines](https://github.com/ssdeanx/Voltmachines) | Multi-agent framework built on VoltAgent | ![Stars](https://img.shields.io/github/stars/ssdeanx/Voltmachines) |
+
+### Workflow & Pipeline Frameworks
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [circuit](https://github.com/smogili1/circuit) | Drag-and-drop agent workflow builder | ![Stars](https://img.shields.io/github/stars/smogili1/circuit) |
+| [routilux](https://github.com/lzjever/routilux) | Event-driven workflow orchestration for Python | ![Stars](https://img.shields.io/github/stars/lzjever/routilux) |
+| [CraftFlow](https://github.com/scholarlords/CraftFlow) | Workflow orchestration for RAG and multi-agent collaborations | ![Stars](https://img.shields.io/github/stars/scholarlords/CraftFlow) |
+| [sentinels](https://github.com/garyblankenship/sentinels) | Laravel package for agent-based task orchestration | ![Stars](https://img.shields.io/github/stars/garyblankenship/sentinels) |
+| [titan-orchestrator](https://github.com/ramn51/titan-orchestrator) | Distributed orchestrator bridging DevOps and Agentic AI | ![Stars](https://img.shields.io/github/stars/ramn51/titan-orchestrator) |
 
 ---
 
