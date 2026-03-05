@@ -1,8 +1,21 @@
 # Awesome Agent Orchestration
 
+<!-- SEO Meta -->
+<!--
+  Keywords: AI Agent, Multi-Agent System, Agent Orchestration, Swarm Intelligence,
+  LLM Agents, Agent Framework, Claude AI, OpenAI Agents, CrewAI, AutoGen,
+  MetaGPT, LangGraph, Agent Communication Protocol, A2A, MCP, Agentic AI,
+  Multi-Agent Collaboration, Agent Workflow, Autonomous Agents, AI Automation
+-->
+
 [English](./README.md) | [中文](./README_zh.md)
 
-A curated collection of open-source frameworks, tools, research papers, tutorials, and resources for **Agent Orchestration**, **Multi-Agent Systems**, and **Swarm Intelligence**. This repository focuses on the core concepts of coordinating, managing, and scaling multiple AI agents to work together collaboratively.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0](https://img.shields.io/badge/License-CC0-green.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-agent-orchestration)](https://github.com/vivy-yi/awesome-agent-orchestration/stargazers)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+> A curated collection of open-source **Agent Orchestration** frameworks, **Multi-Agent Systems**, **Swarm Intelligence** tools, **LLM Agent** frameworks, research papers, tutorials, and resources. Covers **AutoGen**, **CrewAI**, **MetaGPT**, **LangGraph**, **Swarms**, **A2A Protocol**, **MCP Protocol**, and more.
 
 ## Table of Contents
 
@@ -33,15 +46,22 @@ A curated collection of open-source frameworks, tools, research papers, tutorial
 
 ---
 
-## Why Agent Orchestration?
+## What is Agent Orchestration?
 
-Agent orchestration is the practice of coordinating multiple AI agents to work together on complex tasks. It enables:
+**Agent Orchestration** is the practice of coordinating multiple AI agents (LLM agents, autonomous agents) to work together on complex tasks. It enables:
 
 - **Scalability**: Handle complex workflows by distributing tasks across specialized agents
 - **Specialization**: Each agent can focus on a specific domain or task
 - **Robustness**: Fault tolerance through agent redundancy and recovery
 - **Emergent Capabilities**: Complex behaviors arising from simple agent interactions
 - **Real-World Applications**: From software development to research automation
+
+### Related Concepts
+
+- **Multi-Agent System (MAS)**: A system composed of multiple interacting intelligent agents
+- **Swarm Intelligence**: Collective behavior emerging from simple agent interactions
+- **Agentic AI**: AI systems that can autonomously plan and execute complex tasks
+- **Agent Communication Protocol**: Standards like A2A (Agent-to-Agent) and MCP (Model Context Protocol) for agent interoperability
 
 ---
 
@@ -417,6 +437,25 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 2. Add your resource in the appropriate section
 3. Ensure consistent formatting
 4. Submit a pull request
+
+---
+
+## SEO Keywords
+
+> Popular search terms: AI Agent Framework, Multi-Agent System, Agent Orchestration, Swarm Intelligence, LLM Agent, Claude AI, OpenAI Agents, CrewAI, AutoGen, MetaGPT, LangGraph, Agent Communication Protocol, A2A Protocol, MCP Protocol, Agentic AI, Autonomous Agents, Agent Workflow, AI Automation
+
+### Popular Frameworks
+
+- [AutoGen](https://github.com/microsoft/autogen) - Microsoft's multi-agent framework
+- [CrewAI](https://github.com/crewAIInc/crewAI) - Role-based multi-agent framework
+- [MetaGPT](https://github.com/geekan/MetaGPT) - Software development multi-agent framework
+- [LangGraph](https://github.com/langchain-ai/langgraph) - State-based agent workflow
+- [Swarms](https://github.com/kyegomez/swarms) - Production-grade multi-agent platform
+
+### Popular Protocols
+
+- [A2A Protocol](https://google.github.io/A2A/) - Agent-to-Agent communication
+- [MCP](https://modelcontextprotocol.io/) - Model Context Protocol
 
 ---
 
