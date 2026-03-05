@@ -12,6 +12,10 @@ A curated collection of open-source frameworks, tools, research papers, tutorial
   - [Swarm Intelligence Frameworks](#swarm-intelligence-frameworks)
   - [Graph-Based Workflow Frameworks](#graph-based-workflow-frameworks)
   - [Type-Safe & Modern Frameworks](#type-safe--modern-frameworks)
+  - [TypeScript & Node.js Frameworks](#typescript--nodejs-frameworks)
+  - [Go Frameworks](#go-frameworks)
+  - [Swift, Ruby & Elixir Frameworks](#swift-ruby--elixir-frameworks)
+  - [PHP & Java Frameworks](#php--java-frameworks)
 - [Agent Communication Protocols](#agent-communication-protocols)
   - [Agent-to-Agent (A2A)](#agent-to-agent-a2a)
   - [Model Context Protocol (MCP)](#model-context-protocol-mcp)
@@ -58,10 +62,18 @@ Agent orchestration is the practice of coordinating multiple AI agents to work t
 | [agency-swarm](https://github.com/VRSEN/agency-swarm) | Reliable multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/VRSEN/agency-swarm) |
 | [OpenAI Swarm](https://github.com/openai/swarm) | Educational lightweight multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/openai/swarm) |
 | [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Framework for building, orchestrating and deploying AI agents | ![Stars](https://img.shields.io/github/stars/microsoft/agent-framework) |
+| [OpenAI Agents Python](https://github.com/openai/openai-agents-python) | Lightweight powerful framework for multi-agent workflows | ![Stars](https://img.shields.io/github/stars/openai/openai-agents-python) |
+| [Haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration for context-engineered LLM applications | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
+| [LLMStack](https://github.com/trypromptly/LLMStack) | No-code multi-agent framework for LLM agents and workflows | ![Stars](https://img.shields.io/github/stars/trypromptly/LLMStack) |
+| [LazyLLM](https://github.com/LazyAGI/LazyLLM) | Easiest way for building multi-agent LLM applications | ![Stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM) |
+| [MindSearch](https://github.com/InternLM/MindSearch) | LLM-based multi-agent framework for web search engine | ![Stars](https://img.shields.io/github/stars/InternLM/MindSearch) |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | Multi-agent LLM financial trading framework | ![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents) |
 | [Shannon](https://github.com/Kocoro-lab/Shannon) | Production-oriented multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/Kocoro-lab/Shannon) |
 | [Solace Agent Mesh](https://github.com/SolaceLabs/solace-agent-mesh) | Event-driven framework for multi-agent AI systems | ![Stars](https://img.shields.io/github/stars/SolaceLabs/solace-agent-mesh) |
-| [Haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration for context-engineered LLM applications | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
 | [Pipelex](https://github.com/Pipelex/pipelex) | Declarative language for composable AI workflows | ![Stars](https://img.shields.io/github/stars/Pipelex/pipelex) |
+| [CodeFuse-muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) | Innovative agent framework driven by KG Engine | ![Stars](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent) |
+| [L2MAC](https://github.com/samholt/L2MAC) | LLM Automatic Computer Framework | ![Stars](https://img.shields.io/github/stars/samholt/L2MAC) |
+| [Patchwork](https://github.com/patched-codes/patchwork) | Agentic AI framework for enterprise workflow automation | ![Stars](https://img.shields.io/github/stars/patched-codes/patchwork) |
 
 ### Swarm Intelligence Frameworks
 
@@ -70,6 +82,10 @@ Agent orchestration is the practice of coordinating multiple AI agents to work t
 | [Swarms](https://github.com/kyegomez/swarms) | Production-grade multi-agent infrastructure platform | ![Stars](https://img.shields.io/github/stars/kyegomez/swarms) |
 | [Swarm](https://github.com/autoreason/swarm) | Lightweight multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/autoreason/swarm) |
 | [Swarm-Tools](https://github.com/FelipeDaza7/swarm-tools) | Tool for coordinating AI agents with learning capabilities | ![Stars](https://img.shields.io/github/stars/FelipeDaza7/swarm-tools) |
+| [Ruflo](https://github.com/ruvnet/ruflo) | Leading agent orchestration platform for Claude | ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo) |
+| [swarms-rs](https://github.com/The-Swarm-Corporation/swarms-rs) | Enterprise-grade multi-agent orchestration in Rust | ![Stars](https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-rs) |
+| [Lux](https://github.com/Spectral-Finance/lux) | Open-source framework for multi-agent swarmed intelligence | ![Stars](https://img.shields.io/github/stars/Spectral-Finance/lux) |
+| [AutoRT](https://github.com/kyegomez/AutoRT) | Embodied foundation models for robotic agents | ![Stars](https://img.shields.io/github/stars/kyegomez/AutoRT) |
 
 ### Graph-Based Workflow Frameworks
 
@@ -108,6 +124,33 @@ Agent orchestration is the practice of coordinating multiple AI agents to work t
 | [Network-AI](https://github.com/jovanSAPFIONEER/Network-AI) | TypeScript/Node multi-agent orchestrator with shared state | ![Stars](https://img.shields.io/github/stars/jovanSAPFIONEER/Network-AI) |
 | [megazord](https://github.com/Sh3rd3n/megazord) | Claude Code framework for multi-agent coordination | ![Stars](https://img.shields.io/github/stars/Sh3rd3n/megazord) |
 | [Voltmachines](https://github.com/ssdeanx/Voltmachines) | Multi-agent framework built on VoltAgent | ![Stars](https://img.shields.io/github/stars/ssdeanx/Voltmachines) |
+| [agent-swarm-kit](https://github.com/tripolskypetr/agent-swarm-kit) | TypeScript library for framework-agnostic multi-agent systems | ![Stars](https://img.shields.io/github/stars/tripolskypetr/agent-swarm-kit) |
+| [ai-orchestra](https://github.com/langtail/ai-orchestra) | Lightweight orchestration for AI Agents around Vercel's streamText | ![Stars](https://img.shields.io/github/stars/langtail/ai-orchestra) |
+
+### Go Frameworks
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) | Lightweight powerful framework for multi-agent workflows in Go | ![Stars](https://img.shields.io/github/stars/nlpodyssey/openai-agents-go) |
+| [swarm-go](https://github.com/feiskyer/swarm-go) | Ergonomic lightweight multi-agent orchestration in Go | ![Stars](https://img.shields.io/github/stars/feiskyer/swarm-go) |
+| [rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) | High-performance framework for interactive multi-agent workflows in Rust | ![Stars](https://img.shields.io/github/stars/a-agmon/rs-graph-llm) |
+
+### Swift, Ruby & Elixir Frameworks
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [SwiftSwarm](https://github.com/jamesrochabrun/SwiftSwarm) | Swift framework for lightweight multi-agent orchestration | ![Stars](https://img.shields.io/github/stars/jamesrochabrun/SwiftSwarm) |
+| [Swarm](https://github.com/christopherkarani/Swarm) | Lightweight agent orchestration framework in Swift | ![Stars](https://img.shields.io/github/stars/christopherkarani/Swarm) |
+| [ruby-openai-swarm](https://github.com/graysonchen/ruby-openai-swarm) | Ruby-based framework for multi-agent orchestration | ![Stars](https://img.shields.io/github/stars/graysonchen/ruby-openai-swarm) |
+| [swarm_ex](https://github.com/nrrso/swarm_ex) | Elixir library for lightweight AI agent orchestration | ![Stars](https://img.shields.io/github/stars/nrrso/swarm_ex) |
+| [shifts](https://github.com/aaronrussell/shifts) | Elixir framework for composing autonomous AI agent workflows | ![Stars](https://img.shields.io/github/stars/aaronrussell/shifts) |
+
+### PHP & Java Frameworks
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [neuron-ai](https://github.com/neuron-core/neuron-ai) | PHP agentic framework for production-ready AI applications | ![Stars](https://img.shields.io/github/stars/neuron-core/neuron-ai) |
+| [swarm-ai](https://github.com/intelliswarm-ai/swarm-ai) | Java multi-agent orchestration with Spring AI | ![Stars](https://img.shields.io/github/stars/intelliswarm-ai/swarm-ai) |
 
 ### Workflow & Pipeline Frameworks
 
