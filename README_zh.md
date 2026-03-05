@@ -13,7 +13,9 @@
   - [基于图的编排框架](#基于图的编排框架)
   - [类型安全 & 现代框架](#类型安全--现代框架)
   - [TypeScript & Node.js 框架](#typescript--nodejs-框架)
-  - [工作流 & 管道框架](#工作流--管道框架)
+  - [Go 框架](#go-框架)
+  - [Swift、Ruby 和 Elixir 框架](#swiftruby-和-elixir-框架)
+  - [PHP 和 Java 框架](#php-和-java-框架)
 - [智能体通信协议](#智能体通信协议)
   - [Agent-to-Agent (A2A)](#agent-to-agent-a2a)
   - [Model Context Protocol (MCP)](#model-context-protocol-mcp)
@@ -60,10 +62,18 @@
 | [agency-swarm](https://github.com/VRSEN/agency-swarm) | 可靠的多智能体编排框架 | ![Stars](https://img.shields.io/github/stars/VRSEN/agency-swarm) |
 | [OpenAI Swarm](https://github.com/openai/swarm) | 教育级轻量级多智能体编排框架 | ![Stars](https://img.shields.io/github/stars/openai/swarm) |
 | [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | 微软构建、编排和部署 AI 智能体的框架 | ![Stars](https://img.shields.io/github/stars/microsoft/agent-framework) |
+| [OpenAI Agents Python](https://github.com/openai/openai-agents-python) | 轻量级强大的多智能体工作流框架 | ![Stars](https://img.shields.io/github/stars/openai/openai-agents-python) |
+| [Haystack](https://github.com/deepset-ai/haystack) | 开源 AI 编排框架，用于构建上下文工程化的 LLM 应用 | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
+| [LLMStack](https://github.com/trypromptly/LLMStack) | 无代码多智能体框架，构建 LLM 智能体和工作流 | ![Stars](https://img.shields.io/github/stars/trypromptly/LLMStack) |
+| [LazyLLM](https://github.com/LazyAGI/LazyLLM) | 构建多智能体 LLM 应用程序最简单的方式 | ![Stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM) |
+| [MindSearch](https://github.com/InternLM/MindSearch) | 基于 LLM 的多智能体网络搜索引擎框架 | ![Stars](https://img.shields.io/github/stars/InternLM/MindSearch) |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 多智能体 LLM 金融交易框架 | ![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents) |
 | [Shannon](https://github.com/Kocoro-lab/Shannon) | 生产级多智能体编排框架 | ![Stars](https://img.shields.io/github/stars/Kocoro-lab/Shannon) |
 | [Solace Agent Mesh](https://github.com/SolaceLabs/solace-agent-mesh) | 事件驱动的多智能体 AI 系统框架 | ![Stars](https://img.shields.io/github/stars/SolaceLabs/solace-agent-mesh) |
-| [Haystack](https://github.com/deepset-ai/haystack) | 开源 AI 编排框架，用于构建上下文工程化的 LLM 应用 | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
 | [Pipelex](https://github.com/Pipelex/pipelex) | 可组合 AI 工作流的声明式语言 | ![Stars](https://img.shields.io/github/stars/Pipelex/pipelex) |
+| [CodeFuse-muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) | 知识图谱驱动的创新智能体框架 | ![Stars](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent) |
+| [L2MAC](https://github.com/samholt/L2MAC) | LLM 自动计算机框架 | ![Stars](https://img.shields.io/github/stars/samholt/L2MAC) |
+| [Patchwork](https://github.com/patched-codes/patchwork) | 企业级工作流自动化的智能体 AI 框架 | ![Stars](https://img.shields.io/github/stars/patched-codes/patchwork) |
 
 ### 群体智能框架
 
@@ -72,6 +82,10 @@
 | [Swarms](https://github.com/kyegomez/swarms) | 生产级多智能体基础设施平台 | ![Stars](https://img.shields.io/github/stars/kyegomez/swarms) |
 | [Swarm](https://github.com/autoreason/swarm) | 轻量级多智能体编排框架 | ![Stars](https://img.shields.io/github/stars/autoreason/swarm) |
 | [Swarm-Tools](https://github.com/FelipeDaza7/swarm-tools) | 协调具有学习能力的 AI 智能体的工具 | ![Stars](https://img.shields.io/github/stars/FelipeDaza7/swarm-tools) |
+| [Ruflo](https://github.com/ruvnet/ruflo) | Claude 主导的智能体编排平台 | ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo) |
+| [swarms-rs](https://github.com/The-Swarm-Corporation/swarms-rs) | Rust 版企业级多智能体编排 | ![Stars](https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-rs) |
+| [Lux](https://github.com/Spectral-Finance/lux) | 多智能体群体智能开源框架 | ![Stars](https://img.shields.io/github/stars/Spectral-Finance/lux) |
+| [AutoRT](https://github.com/kyegomez/AutoRT) | 机器人智能体大规模编排的基础模型 | ![Stars](https://img.shields.io/github/stars/kyegomez/AutoRT) |
 
 ### 基于图的编排框架
 
@@ -110,6 +124,33 @@
 | [Network-AI](https://github.com/jovanSAPFIONEER/Network-AI) | TypeScript/Node 多智能体编排器，带共享状态 | ![Stars](https://img.shields.io/github/stars/jovanSAPFIONEER/Network-AI) |
 | [megazord](https://github.com/Sh3rd3n/megazord) | Claude Code 多智能体协作框架 | ![Stars](https://img.shields.io/github/stars/Sh3rd3n/megazord) |
 | [Voltmachines](https://github.com/ssdeanx/Voltmachines) | 基于 VoltAgent 的多智能体框架 | ![Stars](https://img.shields.io/github/stars/ssdeanx/Voltmachines) |
+| [agent-swarm-kit](https://github.com/tripolskypetr/agent-swarm-kit) | TypeScript 库，用于构建框架无关的多智能体系统 | ![Stars](https://img.shields.io/github/stars/tripolskypetr/agent-swarm-kit) |
+| [ai-orchestra](https://github.com/langtail/ai-orchestra) | 轻量级 AI 智能体编排，围绕 Vercel streamText | ![Stars](https://img.shields.io/github/stars/langtail/ai-orchestra) |
+
+### Go 框架
+
+| 项目 | 描述 | Stars |
+|------|------|-------|
+| [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) | Go 语言轻量级强大的多智能体工作流框架 | ![Stars](https://img.shields.io/github/stars/nlpodyssey/openai-agents-go) |
+| [swarm-go](https://github.com/feiskyer/swarm-go) | Go 语言的轻量级多智能体编排 | ![Stars](https://img.shields.io/github/stars/feiskyer/swarm-go) |
+| [rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) | Rust 高性能交互式多智能体工作流框架 | ![Stars](https://img.shields.io/github/stars/a-agmon/rs-graph-llm) |
+
+### Swift、Ruby 和 Elixir 框架
+
+| 项目 | 描述 | Stars |
+|------|------|-------|
+| [SwiftSwarm](https://github.com/jamesrochabrun/SwiftSwarm) | Swift 轻量级多智能体编排框架 | ![Stars](https://img.shields.io/github/stars/jamesrochabrun/SwiftSwarm) |
+| [Swarm](https://github.com/christopherkarani/Swarm) | Swift 6.2 轻量级智能体编排框架 | ![Stars](https://img.shields.io/github/stars/christopherkarani/Swarm) |
+| [ruby-openai-swarm](https://github.com/graysonchen/ruby-openai-swarm) | Ruby 版多智能体编排框架 | ![Stars](https://img.shields.io/github/stars/graysonchen/ruby-openai-swarm) |
+| [swarm_ex](https://github.com/nrrso/swarm_ex) | Elixir 轻量级 AI 智能体编排库 | ![Stars](https://img.shields.io/github/stars/nrrso/swarm_ex) |
+| [shifts](https://github.com/aaronrussell/shifts) | Elixir 组合自主 AI 智能体工作流的框架 | ![Stars](https://img.shields.io/github/stars/aaronrussell/shifts) |
+
+### PHP 和 Java 框架
+
+| 项目 | 描述 | Stars |
+|------|------|-------|
+| [neuron-ai](https://github.com/neuron-core/neuron-ai) | PHP 智能体框架，用于构建生产级 AI 应用 | ![Stars](https://img.shields.io/github/stars/neuron-core/neuron-ai) |
+| [swarm-ai](https://github.com/intelliswarm-ai/swarm-ai) | Spring AI 的 Java 多智能体编排 | ![Stars](https://img.shields.io/github/stars/intelliswarm-ai/swarm-ai) |
 
 ### 工作流 & 管道框架
 
