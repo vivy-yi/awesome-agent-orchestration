@@ -116,15 +116,57 @@ Google's A2A protocol enables secure, interoperable communication between autono
 
 ### Model Context Protocol (MCP)
 
-An open protocol that enables seamless connection between AI models and external tools/data sources.
+An open protocol that enables seamless connection between AI models and external tools/data sources. MCP is becoming the standard for tool-augmented LLM applications.
+
+#### Official Resources
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [awesome-agent-protocols](https://github.com/shanjai-raj/awesome-agent-protocols) | Curated list of agent communication protocols | ![Stars](https://img.shields.io/github/stars/shanjai-raj/awesome-agent-protocols) |
-| [mcpadapt](https://github.com/grll/mcpadapt) | Connect 650+ MCP servers to agent frameworks | ![Stars](https://img.shields.io/github/stars/grll/mcpadapt) |
-| [Casibase](https://github.com/casibase/casibase) | MCP/A2A management platform with admin UI | ![Stars](https://img.shields.io/github/stars/casibase/casibase) |
-| [AgisMCP](https://github.com/harshitnub077/AgisMCP) | MCP server dashboard for remote agents | ![Stars](https://img.shields.io/github/stars/harshitnub077/AgisMCP) |
-| [A-MEM-Trainer](https://github.com/slkAGI/A-MEM-Trainer) | Agentic memory orchestration with MCP | ![Stars](https://img.shields.io/github/stars/slkAGI/A-MEM-Trainer) |
+| [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | Most popular curated list of MCP servers | ![Stars](https://img.shields.io/github/stars/wong2/awesome-mcp-servers) |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | Community-driven MCP server registry | ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/registry) |
+| [microsoft/mcp](https://github.com/microsoft/mcp) | Official Microsoft MCP servers catalog | ![Stars](https://img.shields.io/github/stars/microsoft/mcp) |
+| [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) | Official Swift SDK for MCP | ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/swift-sdk) |
+
+#### Database & Vector Stores
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) | Official Qdrant vector database server | ![Stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant) |
+| [mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) | Milvus vector database server | ![Stars](https://img.shields.io/github/stars/zilliztech/mcp-server-milvus) |
+| [mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) | Neo4j graph database server | ![Stars](https://img.shields.io/github/stars/neo4j-contrib/mcp-neo4j) |
+| [mongodb-mcp-server](https://github.com/mongodb-js/mcp-mcp-server) | MongoDB database server | ![Stars](https://img.shields.io/github/stars/mongodb-js/mongodb-mcp-server) |
+| [mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) | MySQL database server | ![Stars](https://img.shields.io/github/stars/designcomputer/mysql_mcp_server) |
+| [MariaDB/mcp](https://github.com/MariaDB/mcp) | MariaDB database server | ![Stars](https://img.shields.io/github/stars/MariaDB/mcp) |
+
+#### Browser & Automation
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [mcp-playwright](https://github.com/executeautomation/mcp-playwright) | Playwright browser automation | ![Stars](https://img.shields.io/github/stars/executeautomation/mcp-playwright) |
+| [mcp-chrome](https://github.com/hangwin/mcp-chrome) | Chrome extension for browser control | ![Stars](https://img.shields.io/github/stars/hangwin/mcp-chrome) |
+| [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | iOS/Android automation | ![Stars](https://img.shields.io/github/stars/mobile-next/mobile-mcp) |
+
+#### Development & Tools
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) | Filesystem operations | ![Stars](https://img.shields.io/github/stars/mark3labs/mcp-filesystem-server) |
+| [jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server) | Jupyter notebook integration | ![Stars](https://img.shields.io/github/stars/datalayer/jupyter-mcp-server) |
+| [fetch-mcp](https://github.com/zcaceres/fetch-mcp) | HTTP fetching | ![Stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp) |
+| [mcp-graphql](https://github.com/blurrah/mcp-graphql) | GraphQL API integration | ![Stars](https://img.shields.io/github/stars/blurrah/mcp-graphql) |
+| [mcpadapt](https://github.com/grll/mcpadapt) | Connect 650+ MCP servers to any framework | ![Stars](https://img.shields.io/github/stars/grll/mcpadapt) |
+
+#### Specialized Servers
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) | arXiv paper search | ![Stars](https://img.shields.io/github/stars/blazickjp/arxiv-mcp-server) |
+| [mcp-youtube](https://github.com/anaisbetts/mcp-youtube) | YouTube video analysis | ![Stars](https://img.shields.io/github/stars/anaisbetts/mcp-youtube) |
+| [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) | Excel file manipulation | ![Stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server) |
+| [drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) | Diagram creation | ![Stars](https://img.shields.io/github/stars/lgazo/drawio-mcp-server) |
+| [freecad-mcp](https://github.com/neka-nat/freecad-mcp) | FreeCAD 3D modeling | ![Stars](https://img.shields.io/github/stars/neka-nat/freecad-mcp) |
+| [ida-mcp-server](https://github.com/MxIris-Reverse-Engineering/ida-mcp-server) | IDA reverse engineering | ![Stars](https://img.shields.io/github/stars/MxIris-Reverse-Engineering/ida-mcp-server) |
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | Kubernetes management | ![Stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server) |
 
 ---
 
