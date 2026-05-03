@@ -397,6 +397,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | Tool | Description |
 |------|-------------|
 | [AgentBench](https://github.com/AgentBench/AgentBench) | Evaluates agents across diverse environments |
+| [Hlido](https://hlido.eu) | Independent AI agent review desk with 329 claim-vs-evidence reviews, C2PA-signed proof artifacts, public dataset, and MCP trust-check tools for evaluating agent products. |
 | [swarms-evals](https://github.com/The-Swarm-Corporation/swarms-evals) | Evaluation framework for swarm systems |
 | [RAGAS](https://github.com/explodinggradients/ragas) | Evaluation framework for RAG systems |
 
