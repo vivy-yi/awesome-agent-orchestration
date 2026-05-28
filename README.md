@@ -88,6 +88,7 @@
 | [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | Framework for building, orchestrating and deploying AI agents | ![Stars](https://img.shields.io/github/stars/microsoft/agent-framework) |
 | [OpenAI Agents Python](https://github.com/openai/openai-agents-python) | Lightweight powerful framework for multi-agent workflows | ![Stars](https://img.shields.io/github/stars/openai/openai-agents-python) |
 | [Haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration for context-engineered LLM applications | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
+| [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Open-source AI coding orchestrator with specialized agents for planning, execution, review, and PR creation | ![Stars](https://img.shields.io/github/stars/Ivy-Interactive/Ivy-Tendril) |
 | [LLMStack](https://github.com/trypromptly/LLMStack) | No-code multi-agent framework for LLM agents and workflows | ![Stars](https://img.shields.io/github/stars/trypromptly/LLMStack) |
 | [LazyLLM](https://github.com/LazyAGI/LazyLLM) | Easiest way for building multi-agent LLM applications | ![Stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM) |
 | [MindSearch](https://github.com/InternLM/MindSearch) | LLM-based multi-agent framework for web search engine | ![Stars](https://img.shields.io/github/stars/InternLM/MindSearch) |
