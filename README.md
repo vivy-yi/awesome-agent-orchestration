@@ -391,6 +391,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | FastAPI extension for AI agent frameworks |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | Production-ready agent API system |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | Operating system for AI agents |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring and identity verification for AI agent wallets on Solana. Verify agent identity before x402 micropayments. MCP endpoint: https://intel.twzrd.xyz/mcp |
 
 ### Evaluation & Benchmarking
 
