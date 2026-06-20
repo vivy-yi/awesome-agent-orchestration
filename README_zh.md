@@ -375,6 +375,7 @@ Google 的 A2A 协议支持跨框架和供应商的自主智能体之间的安�
 | [Logfire](https://github.com/pydantic/logfire) | Pydantic 的开源可观测性工具 |
 | [Langtrace](https://github.com/Scale3-Labs/langtrace) | AI 智能体的开源可观测性 |
 | [Okahu Monocle](https://github.com/OkahuAI/monocle) | Linux 基金会的追踪框架 |
+| [ax](https://github.com/Necmttn/ax) | AI 编码智能体的本地遥测、回溯、成本、技能、路由和钩子分析 |
 
 ### 记忆与知识
 
