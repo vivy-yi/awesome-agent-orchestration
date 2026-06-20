@@ -375,6 +375,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | [Logfire](https://github.com/pydantic/logfire) | Pydantic's open-source observability tool |
 | [Langtrace](https://github.com/Scale3-Labs/langtrace) | Open-source observability for AI agents |
 | [Okahu Monocle](https://github.com/OkahuAI/monocle) | Tracing framework by Linux Foundation |
+| [ax](https://github.com/Necmttn/ax) | Local telemetry, recall, cost, skill, routing, and hook analytics for AI coding agents |
 
 ### Memory & Knowledge
 
