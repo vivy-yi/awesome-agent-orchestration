@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vivy-yi-awesome-agent-orchestration-badge.png)](https://mseep.ai/app/vivy-yi-awesome-agent-orchestration)
+
 # Awesome Agent Orchestration
 
 <!--
