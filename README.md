@@ -391,6 +391,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | FastAPI extension for AI agent frameworks |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | Production-ready agent API system |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | Operating system for AI agents |
+| [AgentBox](https://github.com/madarco/agentbox) | Run multiple coding agents in parallel sandboxed VMs — local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B) |
 
 ### Evaluation & Benchmarking
 
