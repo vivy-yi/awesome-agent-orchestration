@@ -391,6 +391,7 @@ Google 的 A2A 协议支持跨框架和供应商的自主智能体之间的安�
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | AI 智能体框架的 FastAPI 扩展 |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | 生产级智能体 API 系统 |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | AI 智能体操作系统 |
+| [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) | 受信局域网委托边界，通过密钥鉴权、目标校验、JSON 输出和明确退出码调用已有本地 Agent 或自动化 |
 
 ### 评估与基准测试
 

@@ -391,6 +391,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | FastAPI extension for AI agent frameworks |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | Production-ready agent API system |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | Operating system for AI agents |
+| [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) | Trusted-LAN boundary for delegating requests to an existing local agent or automation with keyed access, target verification, JSON output, and explicit exit codes |
 
 ### Evaluation & Benchmarking
 
