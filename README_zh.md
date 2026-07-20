@@ -391,6 +391,7 @@ Google 的 A2A 协议支持跨框架和供应商的自主智能体之间的安�
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | AI 智能体框架的 FastAPI 扩展 |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | 生产级智能体 API 系统 |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | AI 智能体操作系统 |
+| [Better Agent](https://github.com/ofekron/better-agent) | 用于编排 Claude、Codex 和 Gemini 编码智能体会话的本地 Web 工作空间，支持并行委派、持久状态、审批门控和重启恢复 |
 
 ### 评估与基准测试
 

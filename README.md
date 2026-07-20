@@ -391,6 +391,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | FastAPI extension for AI agent frameworks |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | Production-ready agent API system |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | Operating system for AI agents |
+| [Better Agent](https://github.com/ofekron/better-agent) | Local web workspace for orchestrating Claude, Codex, and Gemini coding-agent sessions with parallel delegation, persistent state, approval gates, and restart recovery |
 
 ### Evaluation & Benchmarking
 
