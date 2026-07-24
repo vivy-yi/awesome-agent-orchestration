@@ -388,6 +388,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | Tool | Description |
 |------|-------------|
 | [OpenAgents](https://github.com/OpenAgentsInc/openagents) | Platform for deploying language agents |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Local-first desktop workspace where a commander coordinates specialist AI agents |
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | FastAPI extension for AI agent frameworks |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | Production-ready agent API system |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | Operating system for AI agents |
