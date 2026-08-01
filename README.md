@@ -90,6 +90,7 @@
 | [Haystack](https://github.com/deepset-ai/haystack) | Open-source AI orchestration for context-engineered LLM applications | ![Stars](https://img.shields.io/github/stars/deepset-ai/haystack) |
 | [LLMStack](https://github.com/trypromptly/LLMStack) | No-code multi-agent framework for LLM agents and workflows | ![Stars](https://img.shields.io/github/stars/trypromptly/LLMStack) |
 | [LazyLLM](https://github.com/LazyAGI/LazyLLM) | Easiest way for building multi-agent LLM applications | ![Stars](https://img.shields.io/github/stars/LazyAGI/LazyLLM) |
+| [LightAgent](https://github.com/wanxingai/LightAgent) | Lightweight Python framework with tools, memory, MCP/SSE, Skills, workflows, and LightSwarm | ![Stars](https://img.shields.io/github/stars/wanxingai/LightAgent) |
 | [MindSearch](https://github.com/InternLM/MindSearch) | LLM-based multi-agent framework for web search engine | ![Stars](https://img.shields.io/github/stars/InternLM/MindSearch) |
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | Multi-agent LLM financial trading framework | ![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents) |
 | [Shannon](https://github.com/Kocoro-lab/Shannon) | Production-oriented multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/Kocoro-lab/Shannon) |
