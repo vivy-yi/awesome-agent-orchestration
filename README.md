@@ -181,6 +181,7 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [circuit](https://github.com/smogili1/circuit) | Drag-and-drop agent workflow builder | ![Stars](https://img.shields.io/github/stars/smogili1/circuit) |
+| [Orch8](https://orch8.io/) | Durable execution layer for AI-agent workflows with ReAct loops, MCP tools, crash recovery, human approval, and rate limits | ![Stars](https://img.shields.io/github/stars/orch8-io/engine) |
 | [routilux](https://github.com/lzjever/routilux) | Event-driven workflow orchestration for Python | ![Stars](https://img.shields.io/github/stars/lzjever/routilux) |
 | [CraftFlow](https://github.com/scholarlords/CraftFlow) | Workflow orchestration for RAG and multi-agent collaborations | ![Stars](https://img.shields.io/github/stars/scholarlords/CraftFlow) |
 | [sentinels](https://github.com/garyblankenship/sentinels) | Laravel package for agent-based task orchestration | ![Stars](https://img.shields.io/github/stars/garyblankenship/sentinels) |
