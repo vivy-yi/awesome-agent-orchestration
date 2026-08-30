@@ -388,6 +388,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | Tool | Description |
 |------|-------------|
 | [OpenAgents](https://github.com/OpenAgentsInc/openagents) | Platform for deploying language agents |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first, self-hosted runtime for persistent agent sessions, MCP tools, sandboxed turns, credentials, and audit/replay |
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | FastAPI extension for AI agent frameworks |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | Production-ready agent API system |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | Operating system for AI agents |
