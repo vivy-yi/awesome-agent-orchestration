@@ -388,6 +388,7 @@ Google 的 A2A 协议支持跨框架和供应商的自主智能体之间的安�
 | 工具 | 描述 |
 |------|------|
 | [OpenAgents](https://github.com/OpenAgentsInc/openagents) | 部署语言智能体的平台 |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | 本地优先、自托管的智能体运行时，支持持久化会话、MCP 工具、沙箱化执行、凭证和审计/回放 |
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | AI 智能体框架的 FastAPI 扩展 |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | 生产级智能体 API 系统 |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | AI 智能体操作系统 |
