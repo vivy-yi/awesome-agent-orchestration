@@ -455,6 +455,8 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Software development multi-agent framework
 - [LangGraph](https://github.com/langchain-ai/langgraph) - State-based agent workflow
 - [Swarms](https://github.com/kyegomez/swarms) - Production-grade multi-agent platform
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 ### Popular Protocols
 
