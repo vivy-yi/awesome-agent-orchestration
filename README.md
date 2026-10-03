@@ -98,6 +98,7 @@
 | [CodeFuse-muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) | Innovative agent framework driven by KG Engine | ![Stars](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent) |
 | [L2MAC](https://github.com/samholt/L2MAC) | LLM Automatic Computer Framework | ![Stars](https://img.shields.io/github/stars/samholt/L2MAC) |
 | [Patchwork](https://github.com/patched-codes/patchwork) | Agentic AI framework for enterprise workflow automation | ![Stars](https://img.shields.io/github/stars/patched-codes/patchwork) |
+| [Tale](https://github.com/tale-project/tale) | Open-source project workspace with manager-agent delegation, persistent sandboxes, and human review | ![Stars](https://img.shields.io/github/stars/tale-project/tale) |
 
 ### Swarm Intelligence Frameworks
 

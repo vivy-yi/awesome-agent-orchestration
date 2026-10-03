@@ -98,6 +98,7 @@
 | [CodeFuse-muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) | 知识图谱驱动的创新智能体框架 | ![Stars](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent) |
 | [L2MAC](https://github.com/samholt/L2MAC) | LLM 自动计算机框架 | ![Stars](https://img.shields.io/github/stars/samholt/L2MAC) |
 | [Patchwork](https://github.com/patched-codes/patchwork) | 企业级工作流自动化的智能体 AI 框架 | ![Stars](https://img.shields.io/github/stars/patched-codes/patchwork) |
+| [Tale](https://github.com/tale-project/tale) | 开源项目工作空间，支持管理智能体委派任务、持久化沙箱和人工审核 | ![Stars](https://img.shields.io/github/stars/tale-project/tale) |
 
 ### 群体智能框架
 
