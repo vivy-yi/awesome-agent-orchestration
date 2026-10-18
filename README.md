@@ -107,6 +107,7 @@
 | [Swarm](https://github.com/autoreason/swarm) | Lightweight multi-agent orchestration framework | ![Stars](https://img.shields.io/github/stars/autoreason/swarm) |
 | [Swarm-Tools](https://github.com/FelipeDaza7/swarm-tools) | Tool for coordinating AI agents with learning capabilities | ![Stars](https://img.shields.io/github/stars/FelipeDaza7/swarm-tools) |
 | [Ruflo](https://github.com/ruvnet/ruflo) | Leading agent orchestration platform for Claude | ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo) |
+| [yoke](https://github.com/outrightmental/yoke) | Drive a swarm of Claude Code agents from GitHub issues to merged PRs | ![Stars](https://img.shields.io/github/stars/outrightmental/yoke) |
 | [swarms-rs](https://github.com/The-Swarm-Corporation/swarms-rs) | Enterprise-grade multi-agent orchestration in Rust | ![Stars](https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-rs) |
 | [Lux](https://github.com/Spectral-Finance/lux) | Open-source framework for multi-agent swarmed intelligence | ![Stars](https://img.shields.io/github/stars/Spectral-Finance/lux) |
 | [AutoRT](https://github.com/kyegomez/AutoRT) | Embodied foundation models for robotic agents | ![Stars](https://img.shields.io/github/stars/kyegomez/AutoRT) |
