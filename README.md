@@ -183,6 +183,7 @@
 | [circuit](https://github.com/smogili1/circuit) | Drag-and-drop agent workflow builder | ![Stars](https://img.shields.io/github/stars/smogili1/circuit) |
 | [routilux](https://github.com/lzjever/routilux) | Event-driven workflow orchestration for Python | ![Stars](https://img.shields.io/github/stars/lzjever/routilux) |
 | [CraftFlow](https://github.com/scholarlords/CraftFlow) | Workflow orchestration for RAG and multi-agent collaborations | ![Stars](https://img.shields.io/github/stars/scholarlords/CraftFlow) |
+| [LazyMind](https://github.com/LazyAGI/LazyMind) | Skill runtime for turning reusable agent procedures into stateful workflows with artifacts and human review | ![Stars](https://img.shields.io/github/stars/LazyAGI/LazyMind) |
 | [sentinels](https://github.com/garyblankenship/sentinels) | Laravel package for agent-based task orchestration | ![Stars](https://img.shields.io/github/stars/garyblankenship/sentinels) |
 | [titan-orchestrator](https://github.com/ramn51/titan-orchestrator) | Distributed orchestrator bridging DevOps and Agentic AI | ![Stars](https://img.shields.io/github/stars/ramn51/titan-orchestrator) |
 
