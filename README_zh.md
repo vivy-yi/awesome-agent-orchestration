@@ -183,6 +183,7 @@
 | [circuit](https://github.com/smogili1/circuit) | 拖放式智能体工作流构建器 | ![Stars](https://img.shields.io/github/stars/smogili1/circuit) |
 | [routilux](https://github.com/lzjever/routilux) | Python 事件驱动工作流编排 | ![Stars](https://img.shields.io/github/stars/lzjever/routilux) |
 | [CraftFlow](https://github.com/scholarlords/CraftFlow) | RAG 和多智能体协作的工作流编排框架 | ![Stars](https://img.shields.io/github/stars/scholarlords/CraftFlow) |
+| [LazyMind](https://github.com/LazyAGI/LazyMind) | 将可复用智能体流程转换为带产物和人工审阅的有状态工作流的 Skill 运行时 | ![Stars](https://img.shields.io/github/stars/LazyAGI/LazyMind) |
 | [sentinels](https://github.com/garyblankenship/sentinels) | Laravel 智能体任务编排包 | ![Stars](https://img.shields.io/github/stars/garyblankenship/sentinels) |
 | [titan-orchestrator](https://github.com/ramn51/titan-orchestrator) | 连接 DevOps 和 Agentic AI 的分布式编排器 | ![Stars](https://img.shields.io/github/stars/ramn51/titan-orchestrator) |
 
