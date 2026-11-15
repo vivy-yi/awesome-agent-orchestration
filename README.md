@@ -190,6 +190,8 @@
 
 ## Agent Communication Protocols
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote Streamable HTTP MCP server with OAuth 2.1 + DCR for live-music venue discovery and tour routing ([Directory](https://nostairsplease.com/venues)).
+
 ### Agent-to-Agent (A2A)
 
 Google's A2A protocol enables secure, interoperable communication between autonomous agents across frameworks and vendors.
