@@ -391,6 +391,7 @@ Multiple agents discuss and debate to reach consensus on decisions.
 | [FastAPI Agents](https://github.com/blairhudson/fastapi-agents) | FastAPI extension for AI agent frameworks |
 | [AgentAPIProduction](https://github.com/The-Swarm-Corporation/AgentAPIProduction) | Production-ready agent API system |
 | [AgentOS](https://github.com/The-Swarm-Corporation/AgentOS) | Operating system for AI agents |
+| [Entity](https://github.com/agung2001/entity) | Local-first desktop workspace that orchestrates eight agent CLIs — Claude Code, Codex, opencode, Gemini CLI, Ollama, pi, Antigravity, Hermes — where each assistant is a Markdown file with its own instructions, files, skills and MCP servers, and every turn keeps its real transcript, tokens and cost |
 
 ### Evaluation & Benchmarking
 
