@@ -150,6 +150,7 @@
 | [Voltmachines](https://github.com/ssdeanx/Voltmachines) | Multi-agent framework built on VoltAgent | ![Stars](https://img.shields.io/github/stars/ssdeanx/Voltmachines) |
 | [agent-swarm-kit](https://github.com/tripolskypetr/agent-swarm-kit) | TypeScript library for framework-agnostic multi-agent systems | ![Stars](https://img.shields.io/github/stars/tripolskypetr/agent-swarm-kit) |
 | [ai-orchestra](https://github.com/langtail/ai-orchestra) | Lightweight orchestration for AI Agents around Vercel's streamText | ![Stars](https://img.shields.io/github/stars/langtail/ai-orchestra) |
+| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript framework for agents, workflows, memory and RAG, with agent networks for multi-agent orchestration | ![Stars](https://img.shields.io/github/stars/mastra-ai/mastra) |
 
 ### Go Frameworks
 

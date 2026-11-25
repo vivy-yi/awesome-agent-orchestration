@@ -150,6 +150,7 @@
 | [Voltmachines](https://github.com/ssdeanx/Voltmachines) | 基于 VoltAgent 的多智能体框架 | ![Stars](https://img.shields.io/github/stars/ssdeanx/Voltmachines) |
 | [agent-swarm-kit](https://github.com/tripolskypetr/agent-swarm-kit) | TypeScript 库，用于构建框架无关的多智能体系统 | ![Stars](https://img.shields.io/github/stars/tripolskypetr/agent-swarm-kit) |
 | [ai-orchestra](https://github.com/langtail/ai-orchestra) | 轻量级 AI 智能体编排，围绕 Vercel streamText | ![Stars](https://img.shields.io/github/stars/langtail/ai-orchestra) |
+| [Mastra](https://github.com/mastra-ai/mastra) | TypeScript 智能体框架，支持工作流、记忆和 RAG，并通过智能体网络实现多智能体编排 | ![Stars](https://img.shields.io/github/stars/mastra-ai/mastra) |
 
 ### Go 框架
 
